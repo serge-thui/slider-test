@@ -1,8 +1,15 @@
-
+*{
+    padding: 0;
+    margin: 0;
+}
 body {
     overflow-x: hidden;
     background: #fed5c8;
   }
+
+img{
+    width: 200px;
+}
 
 .list {
     height: 200px;
